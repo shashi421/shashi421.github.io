@@ -1,9 +1,9 @@
 brand:
-  name: Start Bootstrap
+  name: Foestech
 menu-string: Menu
 
 nav:
-  - title: Services
+  - title: Products
     url: '#services'
   - title: Portfolio
     url: '#portfolio'
@@ -14,7 +14,7 @@ nav:
   - title: Contact
     url: '#contact'
 
-copyright: Copyright &copy; Your Website 2018
+copyright: Copyright &copy; foestech.com 2019
 
 social-buttons:
   - icon: fa fa-twitter
